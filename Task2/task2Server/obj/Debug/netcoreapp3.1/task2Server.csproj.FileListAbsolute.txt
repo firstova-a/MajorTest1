@@ -1,0 +1,13 @@
+C:\Users\CI\source\repos\task2\task2Server\bin\Debug\netcoreapp3.1\task2Server.exe
+C:\Users\CI\source\repos\task2\task2Server\bin\Debug\netcoreapp3.1\task2Server.deps.json
+C:\Users\CI\source\repos\task2\task2Server\bin\Debug\netcoreapp3.1\task2Server.runtimeconfig.json
+C:\Users\CI\source\repos\task2\task2Server\bin\Debug\netcoreapp3.1\task2Server.runtimeconfig.dev.json
+C:\Users\CI\source\repos\task2\task2Server\bin\Debug\netcoreapp3.1\task2Server.dll
+C:\Users\CI\source\repos\task2\task2Server\bin\Debug\netcoreapp3.1\task2Server.pdb
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.csprojAssemblyReference.cache
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.AssemblyInfoInputs.cache
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.AssemblyInfo.cs
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.csproj.CoreCompileInputs.cache
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.dll
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.pdb
+C:\Users\CI\source\repos\task2\task2Server\obj\Debug\netcoreapp3.1\task2Server.genruntimeconfig.cache
