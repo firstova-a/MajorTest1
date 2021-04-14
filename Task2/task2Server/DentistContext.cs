@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace cr1
+namespace task2Server
 {
-	class DentistContext:DbContext
+	class DentistContext : DbContext
 	{
 		public DbSet<Dentist> Dentists { get; set; }
 		public DbSet<Client> Clients { get; set; }

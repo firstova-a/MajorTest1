@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace cr1
+namespace task2Server
 {
 	class Dentist
 	{

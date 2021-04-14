@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace cr1
+namespace task2Server
 {
 	class Visit
 	{
@@ -14,5 +14,6 @@ namespace cr1
 		public Client Client { get; set; }
 		public string Reason { get; set; }
 		public decimal Coast { get; set; }
+
 	}
 }
